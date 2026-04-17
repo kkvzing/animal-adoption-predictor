@@ -4,7 +4,7 @@ A machine learning tool that predicts adoption likelihood and estimated wait tim
 
 ## Live App
 
-[Streamlit App](https://github.com/kkvzing/animal-adoption-predictor)]
+[Streamlit App](https://animal-adoption-predictor.streamlit.app)
 
 ## Run with Docker
 
