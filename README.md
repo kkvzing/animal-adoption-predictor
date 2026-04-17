@@ -4,9 +4,12 @@ A machine learning tool that predicts adoption likelihood and estimated wait tim
 
 ## Live App
 
-[Insert Streamlit URL here]
+[Streamlit App](https://github.com/kkvzing/animal-adoption-predictor)]
 
 ## Run with Docker
+
+Make sure Docker Desktop is installed and running before using these commands.
+Download it from https://www.docker.com/products/docker-desktop if needed.
 
 ```bash
 docker build --no-cache -t animal-adoption-predictor .
