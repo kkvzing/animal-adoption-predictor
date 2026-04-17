@@ -663,6 +663,11 @@ p, li, label {
     [class*="st-key-overview_callout_"] strong {
         color: #5F565F !important;
     }
+
+/* Prevent page CSS from bleeding into Plotly chart text */
+.js-plotly-plot .plotly text {
+    fill: #3D3530 !important;
+}
         
 </style>
 """, unsafe_allow_html=True)
